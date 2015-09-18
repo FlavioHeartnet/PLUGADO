@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3829260187">
+    <data-source source="LOCAL" name="ODBC -" uuid="f754462e-adbc-40a5-9f67-49b738b91974">
+      <driver-ref>odbc.sun</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>sun.jdbc.odbc.JdbcOdbcDriver</jdbc-driver>
+      <jdbc-url>sun.jdbc.odbc.JdbcOdbcDriver</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
